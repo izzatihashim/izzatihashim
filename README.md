@@ -47,7 +47,6 @@
   - Top 5% Midsemester 2 Examination
 
 - Co-Curricular:
-  - 
 
 **Universiti Teknologi Malaysia**
 
