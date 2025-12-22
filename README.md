@@ -32,7 +32,7 @@
 **Universiti Teknologi Malaysia**
 - Program:
   - Sponsorship unit for HIMSAK Student Bus Care 2025
-  - Activity unit for SUSKOM'25
+  - Activity unit & Badminton sport Person-in-charge for SUSKOM'25
   - Special Task unit for KTR Ihya Ramadan 2026
  
 ### Awards & Participation 🎖️
