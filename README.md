@@ -1,5 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Liya and welcome to my profile!
-📊 I’m a first-year student at Universiti Teknologi Malaysia majoring in Bachelor of Computer Science (Data Engineering)
+📊 I’m a first-year student at **Universiti Teknologi Malaysia** majoring in **Bachelor of Computer Science (Data Engineering)**
 
 ## Education Background 🎓
 **Primary School**: SK Merbau
@@ -18,29 +18,29 @@
 - Computer Science in Data Engineering
 
 ## Position 💼
-**SK Merbau**
+### SK Merbau
 - Assistant Student Leader 2018
 
-**SMS Tengku Muhammad Faris Petra**
+### SMS Tengku Muhammad Faris Petra
 - Vice President Mandarin Club Association 2023
 - Deputy President Pergerakan Puteri Islam Malaysia 2023
 - Deputy President Chess Club 2023
 
-**UiTM Dengkil**
+### UiTM Dengkil
 
 
-**Universiti Teknologi Malaysia**
+### Universiti Teknologi Malaysia
 - Program:
   - Sponsorship unit for HIMSAK Student Bus Care 2025
   - Activity unit & Badminton sport Person-in-charge for SUSKOM'25
   - Special Task unit for KTR Ihya Ramadan 2026
 
 ## Awards & Participation 🎖️
-**SK Merbau**
+### SK Merbau
 
-**SMS Tengku Muhammad Faris Petra**
+### SMS Tengku Muhammad Faris Petra
 
-**UiTM Dengkil**
+### UiTM Dengkil
 - Academic:
   - 4.0 GPA UPU Semester 1
   - 4.0 GPA UPU Semester 2
@@ -48,7 +48,7 @@
 
 - Co-Curricular:
 
-**Universiti Teknologi Malaysia**
+### Universiti Teknologi Malaysia
 
 ## Socials
 
