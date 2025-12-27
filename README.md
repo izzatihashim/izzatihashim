@@ -1,70 +1,78 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Liya and welcome to my profile!
-📊 I’m a first-year student at **Universiti Teknologi Malaysia** majoring in **Bachelor of Computer Science (Data Engineering)**
+## Hi 💗 I'm Liya and welcome to my profile!
+## 🔗 About Me
+- 🧕 I'm a **First-Year Computer Science (Data Engineering) student** <br>
+- 🏡 I'm currently studying at **Universiti Teknologi Malaysia** <br>
+- 🫂 I enjoy **socialising and making new connections** <br>
+- 🎨 I love taking part in activities **outside the classroom** <br>
+- 👩🏻‍💻 I code to unwind <br>
+- ⭐️ I'm fluent in **Malay & English**
+- 💫 I'm actively learning **Mandarin & Spanish** <br>
+
+#### Check out my personal website for more info! [click here]()
 
 ## Education Background 🎓
-**Primary School**: SK Merbau
-- UPSR: 5A's
+### 🏫 Universiti Teknologi Malaysia (2024-Present)
+- Bachelor of Computer Science (Data Engineering) with Honours
 
-**Secondary School**: SMS Tengku Muhammad Faris Petra
-- Science stream
-- SPM: 9A's 
-
-**Foundation**: UiTM Dengkil
-- Science stream
+### 🏫 UiTM Dengkil (2024-2025)
+- Foundation in Science
 - CGPA: 3.94
 - MUET: 4.0
 
-**Bachelor Degree**: Universiti Teknologi Malaysia
-- Computer Science in Data Engineering
+### 🏫 SMS Tengku Muhammad Faris Petra (2019-2023)
+- Science stream
+- SPM: 9A's 
 
-## Position 💼
-### SK Merbau
+### 🏫 SK Merbau (2013-2018)
+- UPSR: 5A's
+
+## Position 👩‍🎓
+### 💼 Universiti Teknologi Malaysia (2024-Present)
+- Special Task unit for KTR Ihya Ramadan 2026
+- Activity unit & Badminton sport Person-in-charge for SUSKOM'25
+- Sponsorship unit for HIMSAK Student Bus Care 2025
+
+### 💼 SMS Tengku Muhammad Faris Petra (2019-2023)
+- Deputy President of Mandarin Club Association 2023
+- Vice President of Pergerakan Puteri Islam Malaysia 2023
+- Vice President of Chess Club 2023
+- Vice Secretary of Hussein Sporthouse 2023
+
+### 💼 SK Merbau (2013-2018)
 - Assistant Student Leader 2018
 
-### SMS Tengku Muhammad Faris Petra
-- Vice President Mandarin Club Association 2023
-- Deputy President Pergerakan Puteri Islam Malaysia 2023
-- Deputy President Chess Club 2023
-
-### UiTM Dengkil
-
-
-### Universiti Teknologi Malaysia
-- Program:
-  - Sponsorship unit for HIMSAK Student Bus Care 2025
-  - Activity unit & Badminton sport Person-in-charge for SUSKOM'25
-  - Special Task unit for KTR Ihya Ramadan 2026
-
 ## Awards & Participation 🎖️
-### SK Merbau
+Top 5% Midsemester Examination Semester 2 2025 <br>
+4.00 GPA UPU Semester 2 2025 <br>
+4.00 GPA UPU Semester 1 2024 <br>
+Participant of Outward Bound Malaysia (OBM) Training Camp under Yayasan Khazanah 2025 <br>
+Participant of International Applied Chemistry Olympiad (IACHO) 2023 <br>
+Participant of Microsoft FUN-Tastic School Break 'Minecraft: Frozen Planet II' 2023 <br>
+Participant of Annual School Camping 2019-2023 <br>
+Participant of Programme for International Student Assessment (PISA) 2022 <br>
+Participant of Science of Science and Mathematics International Benchmark Test 2022 <br>
+Participant of YOSH MyFund Action Training Camp 2022 <br>
+Participant of National STEM Decathlon Challenge 2021 <br>
+Participant of International Information Management Online Showcase (IIMOS) 2021
 
-### SMS Tengku Muhammad Faris Petra
+## Skills 💻
+| Skill | Example 
+| :--- | :--- 
+| **Programming** | C++, HTML, CSS 
+| **Tools & IDEs** | Visual Studio Code, Dev C++, Github
+| **Software** | Canva, Capcut, Microsoft Word, Microsoft Excel
 
-### UiTM Dengkil
-- Academic:
-  - 4.0 GPA UPU Semester 1
-  - 4.0 GPA UPU Semester 2
-  - Top 5% Midsemester 2 Examination
+## Socials 📱
+**Github**: http://github.com/izzatihashim <br>
+**Linkedin**: http://www.linkedin.com/in/izzatiliyana06 <br>
+**Email**: izztyana06@gmail.com <br>
 
-- Co-Curricular:
-
-### Universiti Teknologi Malaysia
-
-## Socials
-
-<p align="left"> <a href="https://www.github.com/izzatihashim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/izzatiliyana06" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
-## Skills
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-</p>
-
-## 📊 GitHub Stats:
+## GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=izzatihashim&theme=omni&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=izzatihashim&theme=omni&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=izzatihashim&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-## 📈 GitHub Activity Graph
+## GitHub Activity Graph 📈
 [![Liya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=izzatihashim&theme=omni&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
