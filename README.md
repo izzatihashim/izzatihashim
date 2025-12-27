@@ -41,6 +41,13 @@
 ### 💼 SK Merbau (2013-2018)
 - Assistant Student Leader 2018
 
+## Courses 📚
+[SECI10103 Discrete Structure] (https://github.com/izzatihashim/semester-1/tree/1ea720cf5d2ce467028f769e73329ba78bb86008/SECI1013%20Discrete%20Structure)
+[SECR1013 Digital Logic] (https://github.com/izzatihashim/semester-1/tree/1ea720cf5d2ce467028f769e73329ba78bb86008/SECR1013%20Digital%20Logic)
+[SECJ1013 Programming Technique I] (https://github.com/izzatihashim/semester-1/tree/1ea720cf5d2ce467028f769e73329ba78bb86008/SECJ1013%20Programming%20Technique%20I)
+[SECP1513 TEchnology & Information System] (https://github.com/izzatihashim/semester-1/tree/1ea720cf5d2ce467028f769e73329ba78bb86008/SECP1513%20Technology%20%26%20Information%20System)
+ULRS1023 Integrity & Anti-Corruption] (https://github.com/izzatihashim/semester-1/tree/1ea720cf5d2ce467028f769e73329ba78bb86008/ULRS1032%20Integrity%20%26%20Anti-Corruption)
+
 ## Awards & Participation 🎖️
 ### 🌐 International Level
 - ASEAN Quantum Summit 2025 <br>
@@ -62,7 +69,7 @@
 - Microsoft FUN-Tastic School Break 'Minecraft: Frozen Planet II' 2023 <br>
 - YOSH MyFund Action Training Camp 2022 <br>
 
-## Sports & Training
+## Sports & Training ⛳️
 UTM Games Parade representing Kolej Tun Razak 2025 <br>
 UTM Minggu Mesra Mahasiswa (3M) Sports Carnival 2025 <br>
 UTM UNBOCS Splash Run 2025  <br>
