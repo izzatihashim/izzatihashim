@@ -1,4 +1,4 @@
-## Hi 💗 I'm Liya and welcome to my profile!
+# Hi 💗 I'm Liya and welcome to my profile!
 ## 🔗 About Me
 - 🧕 I'm a **First-Year Computer Science (Data Engineering) student** <br>
 - 🏡 I'm currently studying at **Universiti Teknologi Malaysia** <br>
