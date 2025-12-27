@@ -4,7 +4,7 @@
 - 🏡 I'm currently studying at **Universiti Teknologi Malaysia** <br>
 - 🫂 I enjoy **socialising and making new connections** <br>
 - 🎨 I love taking part in activities **outside the classroom** <br>
-- 👩🏻‍💻 I code to unwind <br>
+- 👩🏻‍💻 I code to **unwind & relieve stress** <br>
 - ⭐️ I'm fluent in **Malay & English**
 - 💫 I'm actively learning **Mandarin & Spanish** <br>
 
