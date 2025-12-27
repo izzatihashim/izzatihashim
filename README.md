@@ -42,18 +42,37 @@
 - Assistant Student Leader 2018
 
 ## Awards & Participation 🎖️
-Top 5% Midsemester Examination Semester 2 2025 <br>
-4.00 GPA UPU Semester 2 2025 <br>
-4.00 GPA UPU Semester 1 2024 <br>
-Participant of Outward Bound Malaysia (OBM) Training Camp under Yayasan Khazanah 2025 <br>
-Participant of International Applied Chemistry Olympiad (IACHO) 2023 <br>
-Participant of Microsoft FUN-Tastic School Break 'Minecraft: Frozen Planet II' 2023 <br>
-Participant of Annual School Camping 2019-2023 <br>
-Participant of Programme for International Student Assessment (PISA) 2022 <br>
-Participant of Science of Science and Mathematics International Benchmark Test 2022 <br>
-Participant of YOSH MyFund Action Training Camp 2022 <br>
-Participant of National STEM Decathlon Challenge 2021 <br>
-Participant of International Information Management Online Showcase (IIMOS) 2021
+### 🌐 International Level
+- ASEAN Quantum Summit 2025 <br>
+- International Applied Chemistry Olympiad (IACHO) 2023 <br>
+- Programme for International Student Assessment (PISA) 2022 <br>
+- Science of Science and Mathematics International Benchmark Test 2022 <br>
+- International Information Management Online Showcase (IIMOS) 2021 <br>
+### 🌐 National Level
+- Festival of Idea (FOI) Putrajaya 2025 <br>
+- National STEM Decathlon Challenge 2021 <br>
+### 🌐 Institution Level
+- Top 5% Midsemester Examination Semester 2 2025 <br>
+- 4.00 GPA UPU Semester 2 2025 <br>
+- 4.00 GPA UPU Semester 1 2024 <br>
+- UTMD InsightX 3 "Information System" & 6 "Digital Infra & Data Engineering" 2025 <br>
+- Festival UiTM Perform 2025 <br>
+- Foundation Global Awareness Campaign 2024 <br>
+- Foundation Friendshippreneur Week 2024 <br>
+- Microsoft FUN-Tastic School Break 'Minecraft: Frozen Planet II' 2023 <br>
+- YOSH MyFund Action Training Camp 2022 <br>
+
+## Sports & Training
+UTM Games Kolej Tun Razak Parade 2025 <br>
+UTM UNBOCS Splash Run 2025  <br>
+Outward Bound Malaysia (OBM) Training Camp under Yayasan Khazanah 2025 <br>
+UiTM Dengkil Neon Run 2025 <br>
+UiTM Dengkil Fun Merdeka Run 2024 <br>
+Annual School Camping 2019-2023 <br>
+Medalist, Annual Cross Country 2023 <br>
+Medalist, Annual Cross Country 2022 <br>
+1st Place 4x400m Annual Sports Event 2019 <br>
+1st Place 4x100m Annual Sports Event 2019 <br>
 
 ## Skills 💻
 | Skill | Example 
