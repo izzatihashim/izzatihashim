@@ -75,7 +75,7 @@ Medalist, Annual Cross Country 2022 <br>
 1st Place 4x100m Annual Sports Event 2019 <br>
 
 ## Skills 💻
-| Skill | Example 
+| Skills | Examples
 | :--- | :--- 
 | **Programming** | C++, HTML, CSS 
 | **Tools & IDEs** | Visual Studio Code, Dev C++, Github
@@ -85,6 +85,7 @@ Medalist, Annual Cross Country 2022 <br>
 **Github**: http://github.com/izzatihashim <br>
 **Linkedin**: http://www.linkedin.com/in/izzatiliyana06 <br>
 **Email**: izztyana06@gmail.com <br>
+#### connect with me!
 
 ## GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=izzatihashim&theme=omni&hide_border=true&include_all_commits=false&count_private=false)<br/>
