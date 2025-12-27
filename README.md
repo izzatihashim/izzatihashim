@@ -64,6 +64,7 @@
 
 ## Sports & Training
 UTM Games Kolej Tun Razak Parade 2025 <br>
+UTM Minggu Mesra Mahasiswa (3M) Sports Carnival 2025 <br>
 UTM UNBOCS Splash Run 2025  <br>
 Outward Bound Malaysia (OBM) Training Camp under Yayasan Khazanah 2025 <br>
 UiTM Dengkil Neon Run 2025 <br>
