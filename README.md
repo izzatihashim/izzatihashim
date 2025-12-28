@@ -8,7 +8,7 @@
 - ⭐️ I'm fluent in **Malay & English**
 - 💫 I'm actively learning **Mandarin & Spanish** <br>
 
-#### Check out my personal website for more info! [click here]()
+#### Check out my personal website for more info! []()
 
 ## Education Background 🎓
 ### 🏫 Universiti Teknologi Malaysia (2025-Present)
