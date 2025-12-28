@@ -67,7 +67,6 @@
 - Foundation Global Awareness Campaign 2024 <br>
 - Foundation Friendshippreneur Week 2024 <br>
 - Microsoft FUN-Tastic School Break 'Minecraft: Frozen Planet II' 2023 <br>
-- YOSH MyFund Action Training Camp 2022 <br>
 
 ## Sports & Training ⛳️
 UTM Games Parade representing Kolej Tun Razak 2025 <br>
@@ -79,6 +78,7 @@ UiTM Dengkil Fun Merdeka Run 2024 <br>
 Annual School Camping 2019-2023 <br>
 Medalist, Annual Cross Country 2023 <br>
 Medalist, Annual Cross Country 2022 <br>
+YOSH MyFund Action Training Camp 2022 <br>
 1st Place 4x400m Annual Sports Event 2019 <br>
 1st Place 4x100m Annual Sports Event 2019 <br>
 
