@@ -11,7 +11,7 @@
 #### Check out my personal website for more info! [click here]()
 
 ## Education Background 🎓
-### 🏫 Universiti Teknologi Malaysia (2024-Present)
+### 🏫 Universiti Teknologi Malaysia (2025-Present)
 - Bachelor of Computer Science (Data Engineering) with Honours
 
 ### 🏫 UiTM Dengkil (2024-2025)
