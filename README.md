@@ -8,7 +8,7 @@
 - ⭐️ I'm fluent in **Malay & English**
 - 💫 I'm actively learning **Mandarin & Spanish** <br>
 
-### Check out my personal website for more info! []()
+### Check out my personal website for more info! [click here](https://izzatihashim.github.io/eportfolio-website/)
 
 ## Education Background 🎓
 ### 🏫 Universiti Teknologi Malaysia (2025-Present)
@@ -93,6 +93,7 @@ YOSH MyFund Action Training Camp 2022 <br>
 **Github**: http://github.com/izzatihashim <br>
 **Linkedin**: http://www.linkedin.com/in/izzatiliyana06 <br>
 **Email**: izztyana06@gmail.com <br>
+**Personal Website:** https://izzatihashim.github.io/eportfolio-website/ <br>
 #### connect with me!
 
 ## GitHub Stats 📊
