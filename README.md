@@ -21,7 +21,7 @@
 
 ### 🏫 SMS Tengku Muhammad Faris Petra (2019-2023)
 - Science stream
-- SPM: 9A's 
+- SPM: 9A (6A+, 2A, 1A-)
 
 ### 🏫 SK Merbau (2013-2018)
 - UPSR: 5A's
