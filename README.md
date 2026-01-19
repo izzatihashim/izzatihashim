@@ -97,7 +97,6 @@ YOSH MyFund Action Training Camp 2022 <br>
 #### connect with me!
 
 ## GitHub Stats 📊
-![](https://github-readme-stats.vercel.app/api?username=izzatihashim&theme=omni&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=izzatihashim&theme=omni&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=izzatihashim&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
