@@ -42,11 +42,11 @@
 - Assistant Student Leader 2018
 
 ## Courses 📚
-**SECI1013** [Discrete Structure](https://github.com/izzatihashim/semester-1/tree/ea585051ca625210733604f60f7b9c8420877cf7/SECI1013%20Discrete%20Structure) <br>
-**SECR1013** [Digital Logic](https://github.com/izzatihashim/semester-1/tree/ea585051ca625210733604f60f7b9c8420877cf7/SECR1013%20Digital%20Logic) <br>
-**SECJ1013** [Programming Technique I](https://github.com/izzatihashim/semester-1/tree/ea585051ca625210733604f60f7b9c8420877cf7/SECJ1013%20Programming%20Technique%20I) <br>
-**SECP1513** [Technology & Information System](https://github.com/izzatihashim/semester-1/tree/ea585051ca625210733604f60f7b9c8420877cf7/SECP1513%20Technology%20%26%20Information%20System) <br>
-**ULRS1032** [Integrity & Anti-Corruption](https://github.com/izzatihashim/semester-1/tree/d55b732e3623d3b0de18bba40dedafb80feef3c9/ULRS1032%20Integrity%20%26%20Anti-Corruption) <br>
+**SECI1013** [Discrete Structure](https://github.com/izzatihashim/semester-1/tree/6d305657cc9cd0fa37c3439c1975c7d7c893f820/SECI1013%20Discrete%20Structure) <br>
+**SECR1013** [Digital Logic](https://github.com/izzatihashim/semester-1/tree/6d305657cc9cd0fa37c3439c1975c7d7c893f820/SECR1013%20Digital%20Logic) <br>
+**SECJ1013** [Programming Technique I](https://github.com/izzatihashim/semester-1/tree/6d305657cc9cd0fa37c3439c1975c7d7c893f820/SECJ1013%20Programming%20Technique%20I) <br>
+**SECP1513** [Technology & Information System](https://github.com/izzatihashim/semester-1/tree/6d305657cc9cd0fa37c3439c1975c7d7c893f820/SECP1513%20Technology%20%26%20Information%20System) <br>
+**ULRS1032** [Integrity & Anti-Corruption](https://github.com/izzatihashim/semester-1/tree/6d305657cc9cd0fa37c3439c1975c7d7c893f820/ULRS1032%20Integrity%20%26%20Anti-Corruption) <br>
 
 ## Awards & Participation 🎖️
 ### 🌐 International Level
