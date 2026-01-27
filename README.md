@@ -42,7 +42,7 @@
 - Assistant Student Leader 2018
 
 ## Courses 📚
-**SECI1013** [Discrete Structure](https://github.com/izzatihashim/semester-1/tree/6d305657cc9cd0fa37c3439c1975c7d7c893f820/SECI1013%20Discrete%20Structure) <br>
+**SECI1013** [Discrete Structure](https://github.com/izzatihashim/semester-1/tree/ac8c8a4bbc969742b097704d70417118f0ef4576/SECI1013%20Discrete%20Structure) <br>
 **SECR1013** [Digital Logic](https://github.com/izzatihashim/semester-1/tree/6d305657cc9cd0fa37c3439c1975c7d7c893f820/SECR1013%20Digital%20Logic) <br>
 **SECJ1013** [Programming Technique I](https://github.com/izzatihashim/semester-1/tree/6d305657cc9cd0fa37c3439c1975c7d7c893f820/SECJ1013%20Programming%20Technique%20I) <br>
 **SECP1513** [Technology & Information System](https://github.com/izzatihashim/semester-1/tree/6d305657cc9cd0fa37c3439c1975c7d7c893f820/SECP1513%20Technology%20%26%20Information%20System) <br>
