@@ -28,6 +28,7 @@
 
 ## Position 👩‍🎓
 ### 💼 Universiti Teknologi Malaysia (2024-Present)
+- Activity Unit for Hackathon'25
 - Special Task unit for KTR Ihya Ramadan 2026
 - Activity unit & Badminton sport Person-in-charge for SUSKOM'25
 - Sponsorship unit for HIMSAK Student Welfare Bus Program 2025
