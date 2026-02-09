@@ -44,7 +44,7 @@
 
 ## Studies 📚
 **2526/1** [Semester 1]() <br>
-**2526/2** [Semester 2](https://github.com/izzatihashim/semester-1/tree/6d305657cc9cd0fa37c3439c1975c7d7c893f820/SECR1013%20Digital%20Logic) <br>
+**2526/2** [Semester 2]() <br>
 
 ## Awards & Participation 🎖️
 ### 🌐 International Level
