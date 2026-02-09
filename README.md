@@ -44,7 +44,7 @@
 
 ## Studies 📚
 **2526/1** [Semester 1](https://github.com/izzatihashim/semester-1/tree/ac8c8a4bbc969742b097704d70417118f0ef4576/SECI1013%20Discrete%20Structure) <br>
-**2526/2** [Digital Logic](https://github.com/izzatihashim/semester-1/tree/6d305657cc9cd0fa37c3439c1975c7d7c893f820/SECR1013%20Digital%20Logic) <br>
+**2526/2** [Semester 2](https://github.com/izzatihashim/semester-1/tree/6d305657cc9cd0fa37c3439c1975c7d7c893f820/SECR1013%20Digital%20Logic) <br>
 **SECJ1013** [Programming Technique I](https://github.com/izzatihashim/semester-1/tree/ac8c8a4bbc969742b097704d70417118f0ef4576/SECR1013%20Digital%20Logic) <br>
 **SECP1513** [Technology & Information System](https://github.com/izzatihashim/semester-1/tree/ac8c8a4bbc969742b097704d70417118f0ef4576/SECP1513%20Technology%20%26%20Information%20System) <br>
 **ULRS1032** [Integrity & Anti-Corruption](https://github.com/izzatihashim/semester-1/tree/ac8c8a4bbc969742b097704d70417118f0ef4576/ULRS1032%20Integrity%20%26%20Anti-Corruption) <br>
