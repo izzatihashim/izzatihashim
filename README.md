@@ -43,7 +43,7 @@
 - Assistant Student Leader 2018
 
 ## Studies 📚
-**2526/1** [Semester 1]() <br>
+**2526/1** [Semester 1](https://github.com/izzatihashim/semester-1) <br>
 **2526/2** [Semester 2]() <br>
 
 ## Awards & Participation 🎖️
