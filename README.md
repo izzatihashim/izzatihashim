@@ -44,7 +44,7 @@
 
 ## Studies 📚
 **2526/1** [Semester 1](https://github.com/izzatihashim/semester-1) <br>
-**2526/2** [Semester 2]() <br>
+**2526/2** [Semester 2](https://github.com/izzatihashim/semester-2) <br>
 
 ## Awards & Participation 🎖️
 ### 🌐 International Level
