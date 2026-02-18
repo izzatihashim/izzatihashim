@@ -28,7 +28,7 @@
 - UPSR: 5A's
 
 ## Position 👩‍🎓
-### 💼 Universiti Teknologi Malaysia (2024-Present)
+### 💼 Universiti Teknologi Malaysia (2025-Present)
 - Activity Unit for Hackathon'25
 - Special Task unit for KTR Ihya Ramadan 2026
 - Activity unit & Badminton sport Person-in-charge for SUSKOM'25
