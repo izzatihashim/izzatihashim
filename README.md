@@ -29,10 +29,12 @@
 
 ## Position 👩‍🎓
 ### 💼 Universiti Teknologi Malaysia (2025-Present)
-- Activity Unit for Hackathon'25
-- Special Task unit for KTR Ihya Ramadan 2026
+- Protocol Unit for JARVISXFIESTRA'26
+- Sponsorship Unit for KTR FIGURA'26
+- Activity Unit for Hackathon'26
+- Special Task unit for KTR Ihya Ramadan'26
 - Activity unit & Badminton sport Person-in-charge for SUSKOM'25
-- Sponsorship unit for HIMSAK Student Welfare Bus Program 2025
+- Sponsorship unit for HIMSAK Student Welfare Bus Program'25
 
 ### 💼 SMS Tengku Muhammad Faris Petra (2019-2023)
 - Deputy President of Mandarin Club Association 2023
