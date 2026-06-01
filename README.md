@@ -87,7 +87,7 @@ YOSH MyFund Action Training Camp 2022 <br>
 | Skills | Examples
 | :--- | :--- 
 | **Programming** | C++, HTML, CSS 
-| **Tools & IDEs** | Visual Studio Code, Dev C++, Github
+| **Tools & IDEs** | Visual Studio Code, Visual Studio, Dev C++, Github
 | **Software** | Canva, Capcut, Microsoft Word, Microsoft Excel
 
 ## Socials 📱
