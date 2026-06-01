@@ -13,7 +13,7 @@
 ## Education Background 🎓
 ### 🏫 Universiti Teknologi Malaysia (2025-Present)
 - Bachelor of Computer Science (Data Engineering) with Honours
-- CGPA: (As of semester 1)
+- CGPA: 4.00 (As of semester 1)
 
 ### 🏫 UiTM Dengkil (2024-2025)
 - Foundation in Science
