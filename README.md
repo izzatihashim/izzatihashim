@@ -29,6 +29,7 @@
 
 ## Position 👩‍🎓
 ### 💼 Universiti Teknologi Malaysia (2025-Present)
+- HOD Sponsorship Unit for Computing Gala'26
 - Protocol Unit for JARVISXFIESTRA'26
 - Sponsorship Unit for KTR FIGURA'26
 - Activity Unit for Hackathon'26
